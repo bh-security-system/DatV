@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "post": "https://app.testmigiram.ir//api_post.php",
-      "get": "https://app.testmigiram.ir/api_get.php",
-      "server": "https://app.testmigiram.ir/server_none.png",
-      "user": "https://app.testmigiram.ir/user_ban.png"
+      "post": "https://app.mian2ab.com//post.php",
+      "get": "https://app.mian2ab.com/get.php",
+      "server": "https://app.mian2ab.com/server_none.png",
+      "user": "https://app.mian2ab.com/user_ban.png"
     }
   ]
 }
