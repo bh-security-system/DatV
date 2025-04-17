@@ -1,8 +1,8 @@
 {
   "address": [
     {
-      "post": "https://app.mian2ab.com//post.php",
-      "get": "https://app.mian2ab.com/get.php",
+      "post": "https://app.mian2ab.com//postN.php",
+      "get": "https://app.mian2ab.com/getN.php",
       "server": "https://app.mian2ab.com/server_none.png",
       "user": "https://app.mian2ab.com/user_ban.png"
     }
